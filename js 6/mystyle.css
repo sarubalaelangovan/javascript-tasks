@@ -1,0 +1,32 @@
+table{
+    border-collapse: collapse;
+    width: 50%; 
+    max-width: 800px; 
+    border-radius: 5px;
+    margin-top: 40px;
+    position:absolute;
+    text-align: center;
+    margin-left: 250px !important;  
+}
+.user{
+    margin-left: 250px !important;
+}
+body{
+    background-image:url(backgrounds.jpeg);
+    height:400px;
+    background-size:cover;
+    overflow-x: hidden;
+}
+button {
+    color:black;
+    border:none;
+    display:block;
+    font-size: 20px;
+    width:70px;
+    padding: 10px ;
+    border-radius:35px;
+    border: 2px solid grey;
+    background: none;
+    font-weight: 500;
+    margin-top: 20px !important;
+}
